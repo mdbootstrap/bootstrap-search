@@ -1,4 +1,4 @@
-# Free Search Collection
+# Free Search Inputs Collection
  
 The ultimate collection of responsive **Search** built with the latest Bootstrap 5.
 
